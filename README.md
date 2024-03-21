@@ -69,8 +69,9 @@ They have about a 12 to 1 size advantage over their closest competitor.
 At this point, they are so large, the only recommendation I would have is for them to maintain a strong public and political relationship.  Having those strong relationships would help them if they ever had an unfortunate event like Budweiser had last year which cost them about 25% of market share. 
 
 * Why do you think that offering this product or service would benefit the company?
+  
 Quoting Motley Fool-
->"there's no good reason to believe that AMD will catch up to NVIDIA within five years"
+>"There's no good reason to believe that AMD will catch up to NVIDIA within five years."
   
 Because from a product and technology offering perspective they are so far ahead of their competitors that really the only significant concern they have is if there is a catastrophic public relations or fundamental shift in the geo political landscape. 
 

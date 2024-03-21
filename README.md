@@ -1,5 +1,4 @@
-# TITLE
-The computer, reinvented for accelerated AI computing!
+# The computer, reinvented for accelerated AI computing!
 
 ## Overview and Origin
 NVIDIA, is an American multinational corporation headquartered in Santa Clara, California, and was founded in 1993. They invented the GPU (Graphics Processing Unit) in 1999.  And became the fuel that led the growth of the PC gaming market, and helped ignite the era of modern artificial intelligence 

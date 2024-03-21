@@ -6,7 +6,7 @@ NVIDIA empowers process improvement across multiple AI industries. From generati
 Most notably, their GE Force Graphic Cards offers advanced gaming solutions.  
 * Name of company
 
-Nvidia.com
+https://www.nvidia.com/en-us/
 
 * When was the company incorporated?
 

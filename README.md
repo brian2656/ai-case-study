@@ -2,7 +2,7 @@
 The computer, reinvented for accelerated AI computing!
 
 ## Overview and Origin
-NVIDIA, is an American multinational corporation headquartered in Santa Clara, California, and was founded in 1993. They invented the GPU (Graphics Processing Unit) in 1999.  And became the fuel the led the growth of the PC gaming market, and helped ignite the era of modern artificial intelligence 
+NVIDIA, is an American multinational corporation headquartered in Santa Clara, California, and was founded in 1993. They invented the GPU (Graphics Processing Unit) in 1999.  And became the fuel that led the growth of the PC gaming market, and helped ignite the era of modern artificial intelligence 
 NVIDIA empowers process improvement across multiple AI industries. From generative AI and speech recognition to medical imaging and supply chain management, their technology provides companies with the tools and algorithms needed for accelerated computer processing. (1)
 Most notably, their GE Force Graphic Cards offers advanced gaming solutions.  
 * Name of company
@@ -69,10 +69,20 @@ At this point, they are so large, the only recommendation I would have is for th
 Because from a product and technology offering perspective they are so far ahead of their competitors that really the only significant concern they have is if there is a catastrophic public relations or fundamental shift in the geo political landscape. 
 
 * What technologies would this additional product or service utilize?
+  It would protect future development technologies. And act as a preventative service to future large scale events which potentially could harm the company significantly.
 
 * Why are these technologies appropriate for your solution?
+  Not so much as technologies, but more policies, prevention, and practice that would be a good solution to have prepared in advance.  If Anheuser-Bush InBev would have been prepared with a catastrophic public relations plan they could have shortened the Bud Light boycott of 2023. 
+  
 
 Reference list.
 1.	MS Bing Copilot
-2.	Wikepedia (Nvidia - Wikipedia)
+2.	Wikepedia (en.wikipedia.0rg/wiki/Nvidia)
 3.	Yahoo Finance quote/NVDIA/Key statistics
+4.	Craft.Co
+5.	NVIDIA.com
+6.	NVIDIA.com/en-us/technologies/
+7.	developer.nvidia.com/blog
+8.	blogs.nvidia.com
+   
+   

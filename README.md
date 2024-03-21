@@ -6,11 +6,15 @@ NVIDIA, is an American multinational corporation headquartered in Santa Clara, C
 NVIDIA empowers process improvement across multiple AI industries. From generative AI and speech recognition to medical imaging and supply chain management, their technology provides companies with the tools and algorithms needed for accelerated computer processing. (1)
 Most notably, their GE Force Graphic Cards offers advanced gaming solutions.  
 * Name of company
+
 Nvidia.com
+
 * When was the company incorporated?
+
 April 5, 1993
 
 * Who are the founders of the company?
+
 Jensen Huang, Curtis Priem, Chris Malachowsky
 
 * How did the idea for the company (or project) come about?

@@ -70,7 +70,7 @@ At this point, they are so large, the only recommendation I would have is for th
 
 * Why do you think that offering this product or service would benefit the company?
 Quoting Motley Fool-
->there's no good reason to believe that AMD will catch up to NVIDIA within five years
+>"there's no good reason to believe that AMD will catch up to NVIDIA within five years"
   
 Because from a product and technology offering perspective they are so far ahead of their competitors that really the only significant concern they have is if there is a catastrophic public relations or fundamental shift in the geo political landscape. 
 

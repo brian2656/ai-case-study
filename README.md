@@ -1,4 +1,4 @@
-# The computer, reinvented for accelerated AI computing!
+# The computer- reinvented for accelerated AI computing!
 
 ## Overview and Origin
 NVIDIA, is an American multinational corporation headquartered in Santa Clara, California, and was founded in 1993. They invented the GPU (Graphics Processing Unit) in 1999.  And became the fuel that led the growth of the PC gaming market, and helped ignite the era of modern artificial intelligence 
@@ -66,20 +66,20 @@ They have about a 12 to 1 size advantage over their closest competitor.
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-At this point, they are so large, the only recommendation I would have is for them to maintain a strong public and political relationship.  Having those strong relationships would help them if they ever had an unfortunate event like Budweiser had last year which cost them about 25% of market share. 
+At this point, they have such a large share of the market, I first recommend that they branch out to other technologies such as synthetic technologies. Starting know to look beyond the future of just AI can provide them with a technolgy that while in its infancy now may become the future of all computing.  As a secondary endevor, not specifically tech related, I would encourage them to focus on building a strong public image, and forge deep political relationship.  Having those strong relationships would help them if they ever had an unfortunate event like what Bud Light experienced last year which cost them about 25% of their market share becuase of a single contoversial social media post. 
 
 * Why do you think that offering this product or service would benefit the company?
   
 Quoting Motley Fool-
 >"There's no good reason to believe that AMD will catch up to NVIDIA within five years."
   
-Because from a product and technology offering perspective they are so far ahead of their competitors that really the only significant concern they have is if there is a catastrophic public relations or fundamental shift in the geo political landscape. 
+Because from a product and technology offering perspective they are so far ahead of their competitors that really the only significant concern they have is if the industry itself dies out, or if there is a catastrophic public relations or fundamental shift in the geo political landscape. 
 
 * What technologies would this additional product or service utilize?
   It would protect future development technologies. And act as a preventative service to future large scale events which potentially could harm the company significantly.
 
 * Why are these technologies appropriate for your solution?
-  Not so much as technologies, but more policies, prevention, and practice that would be a good solution to have prepared in advance.  If Anheuser-Bush InBev would have been prepared with a catastrophic public relations plan they could have shortened the Bud Light boycott of 2023. 
+  Because things change fast in the competitive computing world.  For example, at one point Blackberry was the largest player in their industry but they did not change their technolgy and now they are a very small player in the industry.  In addition to technolgy advancement concerns, they should be very concience of building the righ policies, prevention plans, and a good solution plan in place in advance of a significant public image or geo political catestrophic event.  If Anheuser-Bush InBev would have been prepared with a catastrophic public relations plan they could have shortened the Bud Light boycott of 2023 and protected their market share much better than what they did when they had their social media debacle. 
   
 
 Reference list.
